@@ -1,0 +1,14 @@
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\bin\Debug\net8.0\Dom.exe
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\bin\Debug\net8.0\Dom.deps.json
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\bin\Debug\net8.0\Dom.runtimeconfig.json
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\bin\Debug\net8.0\Dom.dll
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\bin\Debug\net8.0\Dom.pdb
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\obj\Debug\net8.0\Dom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\obj\Debug\net8.0\Dom.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\obj\Debug\net8.0\Dom.AssemblyInfo.cs
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\obj\Debug\net8.0\Dom.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\obj\Debug\net8.0\Dom.dll
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\obj\Debug\net8.0\refint\Dom.dll
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\obj\Debug\net8.0\Dom.pdb
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\obj\Debug\net8.0\Dom.genruntimeconfig.cache
+C:\Users\LABORATORIO 2\Desktop\Proyecto\Dom\Dom\obj\Debug\net8.0\ref\Dom.dll
